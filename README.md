@@ -1,4 +1,4 @@
-![image alt](https://github.com/Fayyas-kp/Netflix-Dataset-Python/blob/efe7b90416bbf176c20db42bdcc726a58172db45/Netflix%20Data%20Analysis.jpg)
+![image alt](https://github.com/Fayyas-kp/Netflix-Dataset-Python/blob/42d4de03deb0996d47a329a7d9f83216a4938aa3/Netflix%20Data%20Analysis.jpg)
 
 # Netflix Data Analysis 🎬
 
